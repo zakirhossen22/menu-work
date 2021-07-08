@@ -64,8 +64,7 @@ body{
     box-shadow: 15px 15px 0 #4187f6;
 }
 
-.navigation ul li.active a::after{
-    content: '';
+.navigation ul li.active a::after{ content: '';
     position: absolute;
     bottom:-30px;
     right: 0;
